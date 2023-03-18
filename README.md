@@ -15,7 +15,7 @@ pip install pandas numpy
 # Below is a screenshot of the output
 Move the pointer to the output to see the hover effect
 <p align="center">
-  <img width="" height="" src="https://github.com/AntonyGN/Python-hover-effect/blob/main/Screen%20Shot%202023-03-18%20at%208.17.03%20PM.png">
+  <img width="" height="" src="https://github.com/AntonyGN/Python-hover-effect/blob/main/1.png">
 </p>
 
 # Contributing
